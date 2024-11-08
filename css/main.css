@@ -67,7 +67,7 @@
   --_animspeed-slow: 0.6s;
   --_animbezier: cubic-bezier(0.23, 0.65, 0.74, 1.09);
   /* light color scheme */
-  --base--light: #BABEC8;
+  --base--light: #f5f5f5;
   --base-rgb--light: 186,190,200;
   --base-shade--light: #989ba3;
   --base-tint--light: #d8dde7;
@@ -201,7 +201,7 @@
 }
 
 .main-image-2 {
-  background-image: url("https://dummyimage.com/1920x1080/414141/636363");
+  background-image: url("file:///Users/abeerfarag/Documents/GitHub/abeer-sportfolio/img/backgrounds/abeercard.png");
 }
 
 .about-image-1 {
@@ -249,20 +249,29 @@
 }
 
 .portfolio-item-5 {
-  background-image: url("https://dummyimage.com/1600x1200/686868/737373");
+  background-image: url("file:///Users/abeerfarag/Documents/GitHub/abeer-sportfolio/img/backgrounds/meals4%20lss%20thumbnail.png");
 }
 
 .portfolio-item-6 {
-  background-image: url("https://dummyimage.com/1600x1200/414141/636363");
+  background-image: url("file:///Users/abeerfarag/Documents/GitHub/abeer-sportfolio/img/backgrounds/Macbook%20Mockup.png");
 }
 
 .portfolio-item-7 {
-  background-image: url("https://dummyimage.com/1600x1200/686868/737373");
+  background-image: url("file:///Users/abeerfarag/Documents/GitHub/abeer-sportfolio/img/backgrounds/mintst.png");
 }
 
 .portfolio-item-8 {
-  background-image: url("https://dummyimage.com/1600x1200/414141/636363");
+  background-image: url("file:///Users/abeerfarag/Documents/GitHub/abeer-sportfolio/img/backgrounds/serv5%20copy.png");
 }
+
+.portfolio-item-9 {
+  background-image: url("file:///Users/abeerfarag/Documents/GitHub/abeer-sportfolio/img/backgrounds/Macbook%20Air%20Mockup%2002.png");
+}
+
+.portfolio-item-10 {
+  background-image: url("file:///Users/abeerfarag/Documents/GitHub/abeer-sportfolio/img/backgrounds/inza.png");
+}
+
 
 .project-image-bg-1 {
   background-image: url("https://dummyimage.com/1920x1280/4d4d4d/636363");
@@ -934,17 +943,17 @@ blockquote {
 }
 @media only screen and (min-width: 768px) {
   .logo-text {
-    font-size: 2rem;
+    font-size: 3.6rem;
   }
 }
 @media only screen and (min-width: 1400px) {
   .logo-text {
-    font-size: 2.2rem;
+    font-size: 3.6rem;
   }
 }
 @media only screen and (min-width: 1600px) {
   .logo-text {
-    font-size: 2.6rem;
+    font-size: 3.6rem;
   }
 }
 
@@ -953,7 +962,7 @@ blockquote {
 }
 @media only screen and (min-width: 1600px) {
   .menu-link {
-    font-size: 1.8rem;
+    font-size: 1.2rem;
   }
 }
 
