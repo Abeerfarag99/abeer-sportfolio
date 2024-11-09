@@ -201,7 +201,7 @@
 }
 
 .main-image-2 {
-  background-image: url("file:///Users/abeerfarag/Documents/GitHub/abeer-sportfolio/img/backgrounds/abeercard.png");
+  background-image: url("https://github.com/Abeerfarag99/abeer-sportfolio/blob/main/img/backgrounds/abeercard.png?raw=true");
 }
 
 .about-image-1 {
@@ -249,27 +249,19 @@
 }
 
 .portfolio-item-5 {
-  background-image: url("file:///Users/abeerfarag/Documents/GitHub/abeer-sportfolio/img/backgrounds/meals4%20lss%20thumbnail.png");
+  background-image: url("img/backgrounds/Macbook%20Mockup.png");
 }
 
 .portfolio-item-6 {
-  background-image: url("file:///Users/abeerfarag/Documents/GitHub/abeer-sportfolio/img/backgrounds/Macbook%20Mockup.png");
+  background-image: url("img/backgrounds/Macbook%20Mockup.png");
 }
 
 .portfolio-item-7 {
-  background-image: url("file:///Users/abeerfarag/Documents/GitHub/abeer-sportfolio/img/backgrounds/mintst.png");
+  background-image: url("img/backgrounds/mintst.png");
 }
 
 .portfolio-item-8 {
-  background-image: url("file:///Users/abeerfarag/Documents/GitHub/abeer-sportfolio/img/backgrounds/serv5%20copy.png");
-}
-
-.portfolio-item-9 {
-  background-image: url("file:///Users/abeerfarag/Documents/GitHub/abeer-sportfolio/img/backgrounds/Macbook%20Air%20Mockup%2002.png");
-}
-
-.portfolio-item-10 {
-  background-image: url("file:///Users/abeerfarag/Documents/GitHub/abeer-sportfolio/img/backgrounds/inza.png");
+  background-image: url("img/backgrounds/serv5%20copy.png");
 }
 
 
@@ -489,7 +481,7 @@ h1 {
 }
 @media only screen and (min-width: 1400px) {
   h1 {
-    font-size: 12.6rem;
+    font-size: 11rem;
   }
 }
 @media only screen and (min-width: 1600px) {
@@ -943,17 +935,17 @@ blockquote {
 }
 @media only screen and (min-width: 768px) {
   .logo-text {
-    font-size: 3.6rem;
+    font-size: 3.2rem;
   }
 }
 @media only screen and (min-width: 1400px) {
   .logo-text {
-    font-size: 3.6rem;
+    font-size: 3.2rem;
   }
 }
 @media only screen and (min-width: 1600px) {
   .logo-text {
-    font-size: 3.6rem;
+    font-size: 3.2rem;
   }
 }
 
@@ -962,7 +954,7 @@ blockquote {
 }
 @media only screen and (min-width: 1600px) {
   .menu-link {
-    font-size: 1.2rem;
+    font-size: 1.4rem;
   }
 }
 
@@ -1135,7 +1127,7 @@ blockquote {
 
 .btn-default {
   width: 100%;
-  height: 10rem;
+  height: 8rem;
   padding: 0 7.6rem;
   -moz-border-radius: 5rem;
        border-radius: 5rem;
@@ -1168,7 +1160,7 @@ blockquote {
 }
 @media only screen and (min-width: 1600px) {
   .btn-default {
-    height: 11rem;
+    height: 8rem;
     line-height: 11rem;
     -moz-border-radius: 6rem;
          border-radius: 6rem;
@@ -2879,7 +2871,7 @@ form textarea:required:valid {
 }
 @media only screen and (min-width: 1400px) {
   .title__line em {
-    max-width: 300px;
+    max-width: 350px;
     padding-top: 4.3rem;
     font-size: 2rem;
   }
@@ -3997,7 +3989,7 @@ form textarea:required:valid {
     top: 3rem;
     bottom: auto;
     left: -moz-calc(16.66666667% + 2.5rem);
-    left: calc(16.66666667% + 2.5rem);
+    left: calc(16.66666667% + 10rem);
   }
 }
 
@@ -4178,7 +4170,7 @@ form textarea:required:valid {
 }
 @media only screen and (min-width: 1400px) {
   .menu__list {
-    height: 5rem;
+    height: 3rem;
   }
 }
 
@@ -4196,7 +4188,7 @@ form textarea:required:valid {
        border-radius: var(--_radius-s);
   color: var(--t-bright);
   white-space: nowrap;
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
@@ -4234,9 +4226,9 @@ form textarea:required:valid {
 }
 @media only screen and (min-width: 1400px) {
   .menu__link {
-    height: 5rem;
+    height: 4rem;
     line-height: 5rem;
-    padding: 0 2.5rem;
+    padding: 0 2rem;
   }
 }
 @media only screen and (min-width: 1600px) {
